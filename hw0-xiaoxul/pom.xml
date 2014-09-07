@@ -6,7 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:xiaoxulv/hw0-xiaoxul.git
 		</connection>
-		<developerConnection>scm:git:git@github.com:xiaoxulv/hw0- xiaoxul.git
+		<developerConnection>scm:git:git@github.com:xiaoxulv/hw0-xiaoxul.git
 		</developerConnection>
 	</scm>
 	<repositories>
